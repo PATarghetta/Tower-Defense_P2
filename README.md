@@ -5,22 +5,21 @@ Nome do Projeto
 Lutando pela Vida!
 
 Sobre
-Jogo em 2D estilo Tower Defense, onde os invasores são microrganismos maléficos e os defensores são células do sistema imunológico.
+Jogo em 2D estilo Tower Defense, onde os invasores são microrganismos maléficos e os jogadores usão o sistema imunologico (armas) para derrotalos, assim como Antibióticos para enfraquecer os invasores.
 
 Progresso
-Em Andamento
+Completo
 
 Tecnologias e IDE Utilizadas
 Unity
 C#
 Visual Studio
-ChatGPT
 
 Controles do Jogo
 Mouse
 
 Jogue Online
-N/A
+*link*
 
 Autores do Projeto
 Pedro Augusto L L Targhetta
