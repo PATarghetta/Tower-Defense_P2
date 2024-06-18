@@ -2,7 +2,7 @@
 Projeto P2 para o curso TESI.
 
 Nome do Projeto
-Lutando pela Vida!
+Fight for Life!
 
 Sobre
 Jogo em 2D estilo Tower Defense, onde os invasores são microrganismos maléficos e os jogadores usão o sistema imunologico (armas) para derrotalos, assim como Antibióticos para enfraquecer os invasores.
@@ -19,7 +19,7 @@ Controles do Jogo
 Mouse
 
 Jogue Online
-*link*
+https://patarghetta.itch.io/fight-for-life
 
 Autores do Projeto
 Pedro Augusto L L Targhetta
